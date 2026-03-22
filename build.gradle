@@ -10,7 +10,7 @@ description = 'Rest_ex'
 
 java {
     toolchain {
-        languageVersion = JavaLanguageVersion.of(25)
+        languageVersion = JavaLanguageVersion.of(21)
     }
 }
 
